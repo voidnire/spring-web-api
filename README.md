@@ -1,7 +1,8 @@
 # 🚀 Spring Boot API
 Uma API RESTful desenvolvida com Spring Boot para fornecer endpoints de exemplo.
 
-##📜 Documentação da API
+## 📜 Documentação da API
+
 http://localhost:8080/swagger-ui/
 
 ## 🔗 Endpoints Básicos
@@ -14,10 +15,16 @@ http://localhost:8080/swagger-ui/
 | **PUT**    | `/api/users/{id}` | Atualiza usuário   |
 | **DELETE** | `/api/users/{id}` | Remove usuário     |
 
-🛠 Tecnologias Utilizadas
-Spring Boot
-Spring Data JPA
-Swagger (OpenAPI)
+
+--------------------------------------------------------
+
+### 🛠 Tecnologias Utilizadas
+
+<uL>
+  <ui>Spring Boot</ui>
+   <ui>Spring Data JPA</ui>
+   <ui>Swagger (OpenAPI)</ui>
+</uL>
 
 ## Todo:
 > ver aula dio de exceções e terminar
